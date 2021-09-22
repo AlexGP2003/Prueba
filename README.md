@@ -12,3 +12,12 @@
 > Four score and seven years ago
 
 ~~Hola~~
+
+`dedo`
+
+```
+
+git status
+git add
+git commit
+```
